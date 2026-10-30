@@ -1,0 +1,47 @@
+main:
+  - title: Mutual Information-based Privacy-Preserving Synthetic Data Generation for Recommendation Systems
+    conference: ACM Transactions on Information Systems
+    conference_short: TOIS
+    notes: Accepted
+  - title: LLM-Driven Aspect-Based Semantic Alignment for Review-Based Recommendation
+    image: ./assets/img/publications/llm-asar.png
+    conference_short: TORS
+    authors: <strong>Huilin Chen</strong>, Zhiyong Cheng, Fan Liu, Richang Hong, Meng Wang
+    conference: ACM Transactions on Recommender Systems, 2026
+    code: https://github.com/HuilinChenJN/LLM-ASAR
+  - title: "I³-MRec: Invariant Learning with Information Bottleneck for Incomplete Modality Recommendation"
+    image: ./assets/img/publications/i3-mrec.png
+    conference_short: MM
+    authors: <strong>Huilin Chen</strong>, Miaomiao Cai, Fan Liu, Zhiyong Cheng, Richang Hong, Meng Wang
+    conference: ACM Multimedia (MM), 2025
+    code: https://github.com/HuilinChenJN/I3-MRec
+    page: https://arxiv.org/abs/2508.04247
+    pdf: https://arxiv.org/pdf/2508.04247
+  - title: "Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models"
+    image: ./assets/img/publications/llmsagcn.png
+    conference_short: TOIS
+    authors: Fan Liu, Yaqi Liu, <strong>Huilin Chen</strong>, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli
+    conference: ACM Transactions on Information Systems, 2025
+    code: https://github.com/HuilinChenJN/LLMSAGCN
+    page: https://doi.org/10.1145/3704999
+  - title: Semantic-Guided Feature Distillation for Multimodal Recommendation
+    image: ./assets/img/publications/sgfd.png
+    conference_short: MM
+    authors: Fan Liu, <strong>Huilin Chen</strong>, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli
+    conference: ACM Multimedia (MM), 2023
+    code: https://github.com/HuilinChenJN/SGFD
+  - title: Privacy-Preserving Synthetic Data Generation for Recommendation Systems
+    authors: Fan Liu, Zhiyong Cheng, <strong>Huilin Chen</strong>, Yinwei Wei, Liqiang Nie, Mohan Kankanhalli
+    conference: ACM SIGIR, 2022
+    code: https://github.com/HuilinChenJN/UPC_SDG
+  - title: Event-centric Multi-modal Fusion Method for Dense Video Captioning
+    authors: Z. Chang, D. Zhao, <strong>H. Chen</strong>, J. Li, P. Liu
+    conference: Neural Networks, vol. 146, pp. 120–129, 2022
+  - title: Disentangled Multimodal Representation Learning for Recommendation
+    authors: Fan Liu, <strong>Huilin Chen</strong>, Zhiyong Cheng, A. Liu, Liqiang Nie, Mohan Kankanhalli
+    conference: IEEE Transactions on Multimedia, vol. 25, pp. 7149–7159, 2022
+    page: https://scholar.google.com/citations?view_op=view_citation&user=vWoJdWEAAAAJ&citation_for_view=vWoJdWEAAAAJ:9yKSN-GCB0IC
+  - title: A Natural Language Based Knowledge Representation Method for Medical Diagnosis
+    authors: P. Scholten, J. Ji, <strong>H. Chen</strong>, Y. Song
+    conference: SAI Computing Conference, pp. 32–37, 2016
+    page: https://scholar.google.com/citations?view_op=view_citation&user=vWoJdWEAAAAJ&citation_for_view=vWoJdWEAAAAJ:W7OEmFMy1HYC

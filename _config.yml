@@ -1,0 +1,25 @@
+title: Huilin Chen
+position: Ph.D. Student in Artificial Intelligence
+affiliation: Hefei University of Technology
+affiliation_link: https://www.hfut.edu.cn/
+description: Huilin Chen — research on multimedia recommendation and personalized agents.
+keywords: Huilin Chen, multimedia recommendation, personalized agents
+canonical: https://huilinchenjn.github.io/
+url: https://huilinchenjn.github.io
+baseurl: ""
+lang: en-US
+google_scholar: https://scholar.google.com/citations?user=vWoJdWEAAAAJ
+github_link: https://github.com/HuilinChenJN
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif"
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+email: clownclumsy@outlook.com
+avatar: ./assets/img/profile.jpg
+cv_link: ./assets/files/Huilin_Chen_CV.pdf
