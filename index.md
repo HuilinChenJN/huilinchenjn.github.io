@@ -8,7 +8,7 @@ I am a Ph.D. student at Hefei University of Technology, China, where I have been
 
 I am currently a visiting Ph.D. student at the National University of Singapore (NUS), working with Prof. Mohan Kankanhalli.
 
-[Google Scholar](https://scholar.google.com/citations?user=vWoJdWEAAAAJ) · [GitHub](https://github.com/HuilinChenJN) · [CV](./assets/files/Huilin_Chen_CV.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=vWoJdWEAAAAJ) · [GitHub](https://github.com/HuilinChenJN)
 
 ## Research Interests
 
