@@ -22,4 +22,3 @@ exclude:
   - Gemfile.lock
 email: clownclumsy@outlook.com
 avatar: ./assets/img/profile.jpg
-cv_link: ./assets/files/Huilin_Chen_CV.pdf
