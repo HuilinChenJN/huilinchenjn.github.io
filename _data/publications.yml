@@ -1,5 +1,6 @@
 main:
   - title: Mutual Information-based Privacy-Preserving Synthetic Data Generation for Recommendation Systems
+    authors: <strong>Huilin Chen</strong>, Zhiyong Cheng, Fan Liu, Zhangling Duan, Xun Yang, Meng Wang
     conference: ACM Transactions on Information Systems
     conference_short: TOIS
     notes: Accepted
